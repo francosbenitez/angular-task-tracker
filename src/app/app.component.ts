@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
+// This is for passing props
 export class AppComponent {
-  title = 'angular-task-tracker';
 }
