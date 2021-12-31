@@ -1,6 +1,4 @@
 import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
-// import { timeStamp } from 'console';
-// import { EventEmitter } from 'stream';
 
 @Component({
   selector: 'app-button',
